@@ -1,0 +1,4 @@
+- *NOTE:* *BEFORE* completing steps below, *BE CAREFUL* when doing so!
+- *BE SURE* to compare file contents of *your* existing directories--if you have any--**BEFORE* overwriting. 
+- Change *all* student_files directories to proper assignment name: For example, a1_student_files becomes a1.
+- Lastly, include **your** main lis4368 README.md file here--do *NOT* create one on the remote Bitbucket site!
