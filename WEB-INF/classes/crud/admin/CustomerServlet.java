@@ -17,7 +17,7 @@
 package crud.admin;
 
 import java.io.*; //input/output
-//Note: ArrayList provides *dynamic* resizable-array (i.e., items can be added and removed from list), unlike simple Array
+//Note: ArrayList provides *dynamic* resizable-array (i.e., items can be added and removed from list), unlike simple Array (fixed-length)
 import java.util.*; //ArrayList<SomeCollection>, Enumeration
 import javax.servlet.*;
 import javax.servlet.http.*;
