@@ -53,6 +53,18 @@
 						</thead>
 
 						<tbody>
+							<%
+							/*
+								 Note: "items" contains an ArrayList (or an Object array) to loop over: here, an ArrayList (see CustomerServlet.java and CustomerDB.java)
+								 "var" is simply a user-defined variable used to access the current element, while looping through each iteration of "users" ArrayList, using forEach
+								 Essentially, customerform.jsp calls CustomerServlet, using the string "display_customers."
+								 CustomerServlet then calls CustomerDB.selectCustomers(), and stores the returned ArrayList in a variable called "users."
+								 This ArrayList "users," is then passed as a variable from CustomerServlet to customers.jsp
+								 See action.equals("display_customers") in CustomerServlet.java file.
+								 Then, we just loop through each of the elements and their properties (e.g., fname, lname, street, etc.)
+							 */
+							%>
+							
 							<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 							<c:forEach var="user" items="${users}">
 								<tr class="text-left">
