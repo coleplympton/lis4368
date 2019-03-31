@@ -87,7 +87,7 @@ public class CustomerServlet extends HttpServlet
 		else if (action.equals("modify_customer"))
 			{
 				//Customer user = CustomerDB.selectCustomer(cid);
-				//session.setAttribute("user", user); //setAttribute("name","value")
+				//session.setAttribute("user", user); //Pass data from servlet to jsp using session and setAttribute("name","value") method
 				url = "/modify.jsp"; //pass user to modify.jsp, and display data
 			}
 		//from customerform.jsp
