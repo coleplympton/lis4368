@@ -32,11 +32,24 @@ suppress SSL warnings: useSSL="false"
 driverClassName sometimes required. Also, note package naming convention:
 "Top-down": general (com, org, net...) to more specific (project/product/lib name)
 Prevents package name collisions.
+
+New changes (for MySQL 8+ and JDBC driver):
+changes driverClassName: driverClassName="com.mysql.cj.jdbc.Driver"
+add to url property: &amp;allowPublicKeyRetrieval=true
+
+Note: In XML documents, data values must be stored XML-entity encoded.
+The & character is a special character (it denotes the start of an XML-entity),
+and must be encoded to negate its special meaning.
+
+So, a URL in the form
+/page?useSSL=false&amp;allowPublicKeyRetrieval=true
+stored inside an XML document is identical to the URL
+/page?useSSL=false&allowPublicKeyRetrieval=true in an HTML5 document.
 	-->
     <Resource
-				url="jdbc:mysql://localhost:3306/yourfsuid?useSSL=false"				
+				url="jdbc:mysql://localhost:3306/yourfsuid?useSSL=false&amp;allowPublicKeyRetrieval=true"				
 				type="javax.sql.DataSource"
-				driverClassName="com.mysql.jdbc.Driver"
+				driverClassName="com.mysql.cj.jdbc.Driver"
 				name="jdbc/yourfsuid"
 				auth="Container"
 				username="yourmysqlusername"
