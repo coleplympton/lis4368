@@ -45,9 +45,11 @@ So, a URL in the form
 /page?useSSL=false&amp;allowPublicKeyRetrieval=true
 stored inside an XML document is identical to the URL
 /page?useSSL=false&allowPublicKeyRetrieval=true in an HTML5 document.
+
+Note (remove EDT error): &amp;serverTimezone=UTC
 	-->
     <Resource
-				url="jdbc:mysql://localhost:3306/yourfsuid?useSSL=false&amp;allowPublicKeyRetrieval=true"				
+				url="jdbc:mysql://localhost:3306/yourfsuid?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC"				
 				type="javax.sql.DataSource"
 				driverClassName="com.mysql.cj.jdbc.Driver"
 				name="jdbc/yourfsuid"
