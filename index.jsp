@@ -18,7 +18,7 @@ h2
 {
 	margin: 0;     
 	color: #666;
-	padding-top: 90px;
+	padding-top: 50px;
 	font-size: 52px;
 	font-family: "trebuchet ms", sans-serif;    
 }

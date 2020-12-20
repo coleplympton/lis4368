@@ -24,7 +24,6 @@
 
 		<div class="container-fluid">
 			<div class="starter-template">
-				
 				<div class="page-header">
 					<%@ include file="/p2/global/header.jsp" %>
 				</div>

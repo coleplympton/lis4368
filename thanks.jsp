@@ -20,7 +20,6 @@
 
 	<div class="container">
 		<div class="starter-template">
-					
 					<div class="page-header">
 						<%@ include file="/global/header.jsp" %>
 					</div>

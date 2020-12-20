@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sat, 03-11-17, 14:37:04 Eastern Standard Time>"
+"Time-stamp: <Sat, 12-19-20, 17:39:11 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,9 +27,6 @@
 
 	<div class="container">
 		<div class="starter-template">
-			<div class="row">
-				<div class="col-xs-12">
-					
 					<div class="page-header">
 						<%@ include file="global/header.jsp" %>
 					</div>
@@ -70,8 +67,6 @@
 							</div>
 						</div>
 					</form>
-				</div>
-			</div>
 
 	<%@ include file="/global/footer.jsp" %>
 

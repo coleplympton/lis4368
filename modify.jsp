@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sun, 01-06-19, 22:51:33 Eastern Standard Time>"
+"Time-stamp: <Sat, 12-19-20, 17:54:52 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +27,6 @@
 
 	<div class="container">
 		<div class="starter-template">
-					
 					<div class="page-header">
 						<%@ include file="/p2/global/header.jsp" %>
 					</div>

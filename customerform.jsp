@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sun, 03-03-19, 16:57:07 Eastern Standard Time>"
+"Time-stamp: <Sat, 12-19-20, 17:48:53 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,9 +28,7 @@
 	<%@ include file="/global/nav_global.jsp" %>	
 
 	<div class="container">
-
 		<div class="starter-template">
-					
 					<div class="page-header">
 
 					<!-- View source or uncomment to display Parameter value...
@@ -48,6 +46,7 @@
 					<c:set var="anum" value="${param.assign_num}" scope="request" />
 					<!-- Uncomment to Print: -->
 					<%-- <c:out value="${anum}" /> --%>
+					
 					<c:choose>
 						<c:when test="${anum == null || anum == '0'}">
 						<%@ include file="/global/header.jsp" %>
