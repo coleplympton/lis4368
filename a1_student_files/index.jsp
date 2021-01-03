@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sun, 02-19-17, 12:24:47 Eastern Standard Time>"
+"Time-stamp: <Sat, 01-02-21, 18:35:01 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,21 +27,16 @@
 
 	<div class="container">
 		<div class="starter-template">
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2">
-					
 					<div class="page-header">
 						<%@ include file="global/header.jsp" %>
 					</div>
 
-					<b>JDK Installation:</b><br />
-					<img src="img/jdk_install.png" class="img-responsive" alt="JDK Installation" />
+					<h4>JDK Installation:</h4>
+					<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" />
 
 					<br /> <br />
 					<b>Tomcat Installation:</b><br />
-					<img src="img/tomcat.png" class="img-responsive" alt="Tomcat Installation" />
-				</div>
-			</div>
+					<img src="img/tomcat.png" class="img-responsive center-block" alt="Tomcat Installation" />
 
 	<%@ include file="/global/footer.jsp" %>
 

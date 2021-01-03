@@ -7,8 +7,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <!-- jQuery DataTables: http://www.datatables.net/ //-->
-<script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
+<!-- DataTables: https://datatables.net/download/ //-->
+<script src="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.js"></script>
 
 <!-- Turn off client-side validation, in order to test server-side validation. -->
 <script type="text/javascript"><%@include file="/WEB-INF/js/formValidation/formValidation.min.js"%></script>

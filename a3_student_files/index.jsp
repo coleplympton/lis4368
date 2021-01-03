@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sun, 02-19-17, 12:49:34 Eastern Standard Time>"
+"Time-stamp: <Sat, 01-02-21, 19:40:00 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,24 +27,18 @@
 
 	<div class="container">
 		<div class="starter-template">
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2">
-					
 					<div class="page-header">
 						<%@ include file="global/header.jsp" %>
 					</div>
 
 					<b>Petstore Database (Entity Relationship Diagram):</b><br />
-					<img src="img/a3.png" class="img-responsive" alt="A3 ERD" />
+					<img src="img/a3.png" class="img-responsive center-block" alt="A3 ERD" />
 
 					<br /> <br />
 					<b>MySQL Workbench and SQL Files:</b><br />
 					<a href="docs/a3.mwb">Petstore MySQL Workbench File</a>
 				<br />
 					<a href="docs/a3.sql">Petstore SQL File</a>				
-
-				</div>
-			</div>
 
 	<%@ include file="/global/footer.jsp" %>
 

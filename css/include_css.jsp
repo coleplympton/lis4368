@@ -26,5 +26,4 @@ http://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorig
 
 <!-- jQuery DataTables: http://www.datatables.net/ //-->
 <!-- jQuery DataTables CDN: https://cdn.datatables.net/ //-->
-<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css"/>
-<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/responsive/2.1.0/css/dataTables.responsive.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.css"/>

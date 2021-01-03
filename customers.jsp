@@ -51,7 +51,6 @@
 							</tr>
 						</thead>
 
-						<tbody>
 							<%
 							/*
 								 Note: "items" contains an ArrayList (or an Object array) to loop over: here, an ArrayList (see CustomerServlet.java and CustomerDB.java)
@@ -80,7 +79,7 @@
 											action="${pageContext.request.contextPath}/customerAdmin"
 											method="post">
 											<input type="hidden" name="modify_customer" value="${user.id}" />
-											<input type="submit" value="Edit" />
+										<button type="submit">Edit</button>
 										</form>
 									</td>
 
@@ -92,13 +91,12 @@
 											action="${pageContext.request.contextPath}/customerAdmin"
 											method="post">
 											<input type="hidden" name="delete_customer" value="${user.id}" />
-											<input type="submit" value="Delete" />
+										<button type="submit">Delete</button>
 										</form>
 									</td>									
 									
 								</tr>
 							</c:forEach>
-							</tbody>
 							
 						</table>
 

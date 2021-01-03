@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!--
-"Time-stamp: <Sun, 02-19-17, 12:36:56 Eastern Standard Time>"
+"Time-stamp: <Sat, 01-02-21, 19:38:14 Eastern Standard Time>"
 //-->
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,24 +27,18 @@
 
 	<div class="container">
 		<div class="starter-template">
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2">
-					
 					<div class="page-header">
 						<%@ include file="global/header.jsp" %>
 					</div>
 
 					<b>Servlet Compilation and Usage:</b><br />
-					<img src="img/using_servlets.png" class="img-responsive" alt="Using Servlets" />
+					<img src="img/using_servlets.png" class="img-responsive center-block" alt="Using Servlets" />
 
 					<br /> <br />
 					<b>Database Connectivity Using Servlets:</b><br />
-					<img src="img/database_connectivity1.png" class="img-responsive" alt="Database Connectivity Using Servlets" />
+					<img src="img/database_connectivity1.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
 				<br />
-					<img src="img/database_connectivity2.png" class="img-responsive" alt="Database Connectivity Using Servlets" />
-
-				</div>
-			</div>
+					<img src="img/database_connectivity2.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
 
 	<%@ include file="/global/footer.jsp" %>
 
