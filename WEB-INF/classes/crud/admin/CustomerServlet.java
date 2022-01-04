@@ -19,9 +19,16 @@ package crud.admin;
 import java.io.*; //input/output
 //Note: ArrayList provides *dynamic* resizable-array (i.e., items can be added and removed from list), unlike simple Array (fixed-length)
 import java.util.*; //ArrayList<SomeCollection>, Enumeration
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.annotation.*; 
+
+//Tomact 10 must include following imports:
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+import jakarta.servlet.annotation.*;
+
+//These don't work anymore!
+// import javax.servlet.*;
+// import javax.servlet.http.*;
+// import javax.servlet.annotation.*; 
 
 //import Customer and CustomerDB classes
 import crud.business.Customer;

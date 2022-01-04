@@ -14,9 +14,16 @@ Mac:
 package crud.admin;
 
 import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.annotation.*;
+
+//Tomact 10 must include following imports:
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+import jakarta.servlet.annotation.*;
+
+//These don't work anymore!
+// import javax.servlet.*;
+// import javax.servlet.http.*;
+// import javax.servlet.annotation.*; 
 
 @WebServlet(name="HelloTestServlet",urlPatterns={"/test"})
 public class TestServlet extends HttpServlet

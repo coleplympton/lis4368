@@ -5,9 +5,16 @@ import java.io.*;
 
 //Note: ArrayList provides *dynamic* resizable-array (i.e., items can be added and removed from list), unlike simple Array
 import java.util.*; //example: ArrayList<SomeCollection>
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.annotation.*; //need for servlet mapping below
+
+//Tomact 10 must include following imports:
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+import jakarta.servlet.annotation.*;
+
+//These don't work anymore!
+// import javax.servlet.*;
+// import javax.servlet.http.*;
+// import javax.servlet.annotation.*; 
 
 /** Shows all the parameters sent to the servlet via either
  *  GET or POST. Specially marks parameters that have no values or

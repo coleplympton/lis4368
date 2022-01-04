@@ -1,6 +1,12 @@
 package crud.admin;
-import javax.servlet.*;
-import javax.servlet.http.*;
+
+//Tomact 10 must include following imports:
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+
+//These don't work anymore!
+// import javax.servlet.*;
+// import javax.servlet.http.*;
 
 /** Some simple time savers.
  *  Part of tutorial on servlets and JSP that appears at
