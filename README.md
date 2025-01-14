@@ -1,5 +1,25 @@
-- *NOTE:* *BEFORE* completing steps below, *BE CAREFUL* when doing so!
-- *BE SURE* to compare file contents of *your* existing directories--if you have any--**BEFORE** overwriting. 
-- Change *all* student_files directories to proper assignment name: For example, a1_student_files becomes a1.
-- **Important!** context.xml (in META-INF) has changed since the videos were created. See comments in file.
-- Lastly, include **your** main lis4368 README.md file here--do *NOT* create one on your remote Bitbucket site!
+# LIS4368 - Advanced Web Applications Development
+
+## Cole Plympton
+
+### LIS4368 Requirements:
+
+*Course Work Links:*
+
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+    - Install JDK
+    - Install Tomcat
+    - Provide screenshots of installations
+    - Create Bitbucket repo
+
+2. [A2 README.md](a2/README.md "My A2 README.md file")
+
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+
+4. [A4 README.md](a4/README.md "My A4 README.md file")
+
+5. [A5 README.md](a5/README.md "My A5 README.md file")
+
+6. [A6 README.md](a6/README.md "My A6 README.md file")
+
+7. [A7 README.md](a7/README.md "My A7 README.md file")
