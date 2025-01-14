@@ -36,4 +36,5 @@
 ![A1 localhost running](img/tomcat.png)
 
 #### Screenshot of a1/index.jsp:
-![A1 index.jsp](img/a1_query.png)
+![A1 index1.jsp](img/index1.png)
+![A1 index2.jsp](img/index2.png)
