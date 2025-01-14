@@ -30,10 +30,10 @@
 
 #### Screenshot of java Hello:
 
-![A1 java Screenshot](ss/a1_hello.png)
+![A1 java Screenshot](img/a1_hello.png)
 
 #### Screenshot of http://localhost:9999:
-![A1 localhost running](ss/a1_tomcat.png)
+![A1 localhost running](img/a1_tomcat.png)
 
 #### Screenshot of a1/index.jsp:
-![A1 index.jsp](ss/a1_query.png)
+![A1 index.jsp](img/a1_query.png)
