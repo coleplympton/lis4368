@@ -27,6 +27,7 @@ h2
 	background: #333;    
 	text-align: center;
 	height: 300px !important;
+	position: relative;
 }
 .carousel
 {
@@ -54,7 +55,7 @@ h2
 	<div
       id="myCarousel"
 		class="carousel"
-		data-interval="1000"
+		data-interval="3000"
 		data-pause="hover"
 		data-wrap="true"
 		data-keyboard="true"			
@@ -69,30 +70,31 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/robot.jpg) no-repeat left center; background-size: cover;">
+				 <div class="active item" style="background: url(img/banner.png) no-repeat left center; background-size: cover;">
 					 <div class="container">
 						 <div class="carousel-caption">
-								<h3>First slide label.</h3>
-							 <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget.</p>
-							 <a class="btn btn-large btn-primary" href="#">Learn more</a>
+								<h3></h3>
+							 <p class="lead"></p>
+							 <a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/cole-plympton/">Visit my LinkedIn</a>
 						 </div>
 					 </div>
 				 </div>					
 
-         <div class="item" style="background: url(img/code4.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 2</h2>
+         <div class="item" style="background: url(img/bitbucket.png) no-repeat left center; background-size: cover;">
+                <h2></h2>
                 <div class="carousel-caption">
-                  <h3>Second slide label</h3>
-                  <p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
+                  <h3></h3>
+                  <p></p>
+				  <a class="btn btn-large btn-primary" href="https://bitbucket.org/cplis4930/workspace/repositories/">Check out my Bitbucket!</a>
 						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
                 </div>
             </div>
 
-         <div class="item" style="background: url(img/keyboard.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 3</h2>
+         <div class="item" style="background: url(img/fsu.jpg) no-repeat left center; background-size: cover;">
+                <h2></h2>
                 <div class="carousel-caption">
-                  <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                  <h3></h3>
+                  <p></p>
 						<!--  <img src="img/slide3.png" class="img-responsive" alt="Slide 3">							 -->								
                 </div>
             </div>
