@@ -35,6 +35,6 @@
 #### Screenshot of http://localhost:9999:
 ![A1 localhost running](img/tomcat.png)
 
-#### Screenshot of a1/index.png:
+#### Screenshot of a1/index.jsp:
 ![A1 index.png](img/index.png)
 
