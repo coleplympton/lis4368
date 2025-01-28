@@ -22,7 +22,7 @@
 #### Assesment Links:
 
 1. [http://localhost:9999/hello](http://localhost:9999/hello)
-2. [http://localhost:9999/hello/HelloHome.html](http://localhost:9999/hello/HelloHome.html)
+2. [http://localhost:9999/hello/index.html](http://localhost:9999/hello/index.html)
 3. [http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
 4. [http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
 
