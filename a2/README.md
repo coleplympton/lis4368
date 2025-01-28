@@ -21,10 +21,10 @@
 
 #### Assesment Links:
 
-1. http://localhost:9999/hello 
-2. http://localhost:9999/hello/HelloHome.html
-3. http://localhost:9999/hello/sayhello (invokes HelloServlet)
-4. http://localhost:9999/hello/querybook.html
+1. [http://localhost:9999/hello] 
+2. [http://localhost:9999/hello/HelloHome.html]
+3. [http://localhost:9999/hello/sayhello]
+4. [http://localhost:9999/hello/querybook.html]
 
 #### Assignment Screenshots:
 
