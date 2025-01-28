@@ -4,7 +4,7 @@
 
 ### Assignment 2 Requirements:
 
-*Three Parts:*
+*Four Parts:*
 
 1. Write a "Hello-World" Java Servlet
 2. Compile the Servlet
@@ -21,10 +21,10 @@
 
 #### Assesment Links:
 
-1. [http://localhost:9999/hello] 
-2. [http://localhost:9999/hello/HelloHome.html]
-3. [http://localhost:9999/hello/sayhello]
-4. [http://localhost:9999/hello/querybook.html]
+1. [http://localhost:9999/hello](http://localhost:9999/hello)
+2. [http://localhost:9999/hello/HelloHome.html](http://localhost:9999/hello/HelloHome.html)
+3. [http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
+4. [http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
 
 #### Assignment Screenshots:
 

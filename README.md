@@ -13,6 +13,10 @@
     - Create Bitbucket repo
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Write a "Hello-World" Java Servlet
+    - Compile the Servlet
+    - Write a Database Servlet 
+    - Write the Server-side Database Query Servlet
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
 
