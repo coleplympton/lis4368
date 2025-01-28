@@ -6,26 +6,35 @@
 
 *Three Parts:*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Java/JSP/Servlet Development Initialization
-3. Chapter Questions (Ch. 1-4)
+1. Write a "Hello-World" Java Servlet
+2. Compile the Servlet
+3. Write a Database Servlet 
+4. Write the Server-side Database Query Servlet
+
 
 #### README.md file should include the following items:
 
-* Screenshot of java Hello
-* Screenshot of running http://localhost:8080 (Part 2, Step #4(a) in the tutorial).
-* git commands with short descriptions
-* Screenshot of a1/index.jsp
+* Assesment Links 
+* Screenshot of querybook.html
+* Screenshot of query results
+* Screenshot of a2/index.jsp
+
+#### Assesment Links:
+
+1. http://localhost:9999/hello 
+2. http://localhost:9999/hello/HelloHome.html
+3. http://localhost:9999/hello/sayhello (invokes HelloServlet)
+4. http://localhost:9999/hello/querybook.html
 
 #### Assignment Screenshots:
 
-#### Screenshot of java Hello:
+#### Screenshot of querybook.html:
 
-![A1 java Screenshot](img/jdk_install.png)
+![A2 querybook.html](img/database_connectivity1.png)
 
-#### Screenshot of http://localhost:9999:
-![A1 localhost running](img/tomcat.png)
+#### Screenshot of Query Results:
+![A2 Query Results](img/database_connectivity2.png)
 
 #### Screenshot of a2/index.jsp:
-![A1 index.png](img/index.png)
+![A2 index.png](img/indexjsp.png)
 
