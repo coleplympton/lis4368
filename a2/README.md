@@ -38,3 +38,8 @@
 #### Screenshot of a2/index.jsp:
 ![A2 index.png](img/indexjsp.png)
 
+| Image | Description |
+|-------|-------------|
+| ![Image](ss/ss1.png) | Skillset 1 System Properties  |
+| ![Image](ss/ss2.png) | Skillset 2 Looping Structures|
+| ![Image](ss/ss3.png) | Skillset 3 Number Swap |
