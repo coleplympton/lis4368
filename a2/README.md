@@ -40,6 +40,6 @@
 
 | Image | Description |
 |-------|-------------|
-| ![Image](ss/ss1.png) | [Skillset 1 System Properties](skillsets/SS1_System_properties/) |
-| ![Image](ss/ss2.png) | [Skillset 2 Looping Structures](skillsets/SS2_Looping_Structures/) |
-| ![Image](ss/ss3.png) | [Skillset 3 Number Swap](skillsets/SS3_Number_Swap/) |
+| ![Image](ss/ss1.png) | [Skillset 1 System Properties](../skillsets/SS1_System_properties/) |
+| ![Image](ss/ss2.png) | [Skillset 2 Looping Structures](../skillsets/SS2_Looping_Structures/) |
+| ![Image](ss/ss3.png) | [Skillset 3 Number Swap](../skillsets/SS3_Number_Swap/) |
