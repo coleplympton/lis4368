@@ -19,6 +19,10 @@
     - Write the Server-side Database Query Servlet
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Create tables and insert data  
+    - Forward-engineer the database  
+    - Provide ERD and table data screenshots  
+    - Submit Bitbucket repo with documentation  
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 
