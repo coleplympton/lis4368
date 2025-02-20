@@ -42,6 +42,6 @@
 
 | Image | Description |
 |-------|-------------|
-| ![Image](ss/ss4.png) | [Skillset 1 System Properties](../skillsets/SS4_Directory_Info/) |
-| ![Image](ss/ss5.png) | [Skillset 2 Looping Structures](../skillsets/SS5_Character_Info/) |
-| ![Image](ss/ss6_1.png) <br> ![Image](ss/ss6_2.png)  | [Skillset 3 Number Swap](../skillsets/SS6_Determine_Character/) |
+| ![Image](ss/ss4.png) | [Skillset 4 Directory Info](../skillsets/SS4_Directory_Info/) |
+| ![Image](ss/ss5.png) | [Skillset 5 Character Info](../skillsets/SS5_Character_Info/) |
+| ![Image](ss/ss6_1.png) <br> ![Image](ss/ss6_2.png)  | [Skillset 6 Determine Character](../skillsets/SS6_Determine_Character/) |
