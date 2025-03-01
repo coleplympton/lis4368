@@ -24,7 +24,7 @@
     - Provide ERD and table data screenshots  
     - Submit Bitbucket repo with documentation  
 
-4. [P1 README.md](P1/README.md "My P1 README.md file")
+4. [P1 README.md](p1/README.md "My P1 README.md file")
     - Modify meta tags and page elements
     - Create customer form with all required fields
     - Implement jQuery validation with regular expressions
