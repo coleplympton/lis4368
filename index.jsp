@@ -75,7 +75,7 @@ h2
 						 <div class="carousel-caption">
 								<h3></h3>
 							 <p class="lead"></p>
-							 <a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/cole-plympton/">Visit my LinkedIn</a>
+							 <a class="btn btn-large btn-primary" href="https://coleplympton.github.io/">Visit my Website</a>
 						 </div>
 					 </div>
 				 </div>					
@@ -85,7 +85,7 @@ h2
                 <div class="carousel-caption">
                   <h3></h3>
                   <p></p>
-				  <a class="btn btn-large btn-primary" href="https://bitbucket.org/cplis4930/workspace/repositories/">Check out my Bitbucket!</a>
+				  <a class="btn btn-large btn-primary" href="https://bitbucket.org/cole_plympton/bit_index/src/master/">Check out my Bitbucket!</a>
 						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
                 </div>
             </div>
