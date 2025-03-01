@@ -24,10 +24,16 @@
     - Provide ERD and table data screenshots  
     - Submit Bitbucket repo with documentation  
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
+4. [P1 README.md](P1/README.md "My P1 README.md file")
+    - Modify meta tags and page elements
+    - Create customer form with all required fields
+    - Implement jQuery validation with regular expressions
+    - Test and document form validation
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
+5. [A4 README.md](a4/README.md "My A4 README.md file")
 
-6. [A6 README.md](a6/README.md "My A6 README.md file")
+6. [A5 README.md](a5/README.md "My A5 README.md file")
 
-7. [A7 README.md](a7/README.md "My A7 README.md file")
+7. [A6 README.md](a6/README.md "My A6 README.md file")
+
+8. [A7 README.md](a7/README.md "My A7 README.md file")
